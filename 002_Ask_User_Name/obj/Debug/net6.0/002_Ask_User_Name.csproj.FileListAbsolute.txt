@@ -1,0 +1,15 @@
+C:\Users\Священик\Desktop\Учёба\C\002_Ask_User_Name\bin\Debug\net6.0\002_Ask_User_Name.exe
+C:\Users\Священик\Desktop\Учёба\C\002_Ask_User_Name\bin\Debug\net6.0\002_Ask_User_Name.deps.json
+C:\Users\Священик\Desktop\Учёба\C\002_Ask_User_Name\bin\Debug\net6.0\002_Ask_User_Name.runtimeconfig.json
+C:\Users\Священик\Desktop\Учёба\C\002_Ask_User_Name\bin\Debug\net6.0\002_Ask_User_Name.dll
+C:\Users\Священик\Desktop\Учёба\C\002_Ask_User_Name\bin\Debug\net6.0\002_Ask_User_Name.pdb
+C:\Users\Священик\Desktop\Учёба\C\002_Ask_User_Name\obj\Debug\net6.0\002_Ask_User_Name.csproj.AssemblyReference.cache
+C:\Users\Священик\Desktop\Учёба\C\002_Ask_User_Name\obj\Debug\net6.0\002_Ask_User_Name.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Священик\Desktop\Учёба\C\002_Ask_User_Name\obj\Debug\net6.0\002_Ask_User_Name.AssemblyInfoInputs.cache
+C:\Users\Священик\Desktop\Учёба\C\002_Ask_User_Name\obj\Debug\net6.0\002_Ask_User_Name.AssemblyInfo.cs
+C:\Users\Священик\Desktop\Учёба\C\002_Ask_User_Name\obj\Debug\net6.0\002_Ask_User_Name.csproj.CoreCompileInputs.cache
+C:\Users\Священик\Desktop\Учёба\C\002_Ask_User_Name\obj\Debug\net6.0\002_Ask_User_Name.dll
+C:\Users\Священик\Desktop\Учёба\C\002_Ask_User_Name\obj\Debug\net6.0\refint\002_Ask_User_Name.dll
+C:\Users\Священик\Desktop\Учёба\C\002_Ask_User_Name\obj\Debug\net6.0\002_Ask_User_Name.pdb
+C:\Users\Священик\Desktop\Учёба\C\002_Ask_User_Name\obj\Debug\net6.0\002_Ask_User_Name.genruntimeconfig.cache
+C:\Users\Священик\Desktop\Учёба\C\002_Ask_User_Name\obj\Debug\net6.0\ref\002_Ask_User_Name.dll
